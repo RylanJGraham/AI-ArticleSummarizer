@@ -1,4 +1,4 @@
-# React + Vite
+# SummarAIze
 
 Article Summarizer built using OpenAI GPT model, that takes in user article url and provides brief and concise summary. ​
 
